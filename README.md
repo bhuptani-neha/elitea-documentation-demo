@@ -36,30 +36,5 @@ Required environment variables are documented in `.env.example`.
 
 Install dependencies:
 
-```bash```
+```bash
 npm install
-Start the application:
-
-npm start
-
-Run tests:
-
-npm test
-
-Repository
-This repository is used as a demonstration source for the EliteA
-automated documentation synchronization workflow.
-
-
-Then click:
-
-**Commit changes**
-
-Use:
-
-```text```
-Update README with application documentation
-
-and commit it to:
-
-main
